@@ -1,0 +1,17 @@
+{
+  "name": "subscribe-block-headers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Baranov",
+  "license": "ISC",
+  "dependencies": {
+    "save": "^2.3.3",
+    "url": "^0.11.0",
+    "web3": "^1.2.6"
+  }
+}
